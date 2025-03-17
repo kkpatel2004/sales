@@ -1,5 +1,3 @@
-Here's a general introduction you can use for your sales file on GitHub:
-
 ---
 
 # Sales Data Analysis
